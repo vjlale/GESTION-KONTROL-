@@ -1,0 +1,14 @@
+[
+  {
+    "descripcion": "Venta N° 00001",
+    "items": [],
+    "fecha": "2025-07-04",
+    "forma_pago": "EFECTIVO"
+  },
+  {
+    "descripcion": "Venta N° 00002",
+    "items": [],
+    "fecha": "2025-07-15",
+    "forma_pago": "TRANSFERENCIA"
+  }
+]

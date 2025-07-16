@@ -1,0 +1,201 @@
+[
+  {
+    "descripcion": "Venta N° 00001",
+    "items": [
+      {
+        "producto": "Remera Tejida Bule Over",
+        "marca": "EL DON",
+        "color": "CHOCOLATE",
+        "talle": "S/1/30",
+        "cantidad": 1,
+        "precio": 47.69
+      }
+    ],
+    "fecha": "2025-07-04",
+    "forma_pago": "EFECTIVO",
+    "cerrado": true
+  },
+  {
+    "descripcion": "Venta N° 00001",
+    "items": [],
+    "fecha": "2025-07-04",
+    "forma_pago": "EFECTIVO",
+    "cerrado": true
+  },
+  {
+    "descripcion": "Venta N° 00002",
+    "items": [
+      {
+        "producto": "JEAN OS COTTE",
+        "marca": "MANKI",
+        "color": "NEGRO",
+        "talle": "XS/28",
+        "cantidad": 1,
+        "precio": 96.0
+      }
+    ],
+    "fecha": "2025-07-04",
+    "forma_pago": "EFECTIVO",
+    "cerrado": true
+  },
+  {
+    "descripcion": "Venta N° 00002",
+    "items": [
+      {
+        "producto": "Buzo Waffle Liviano",
+        "marca": "EL DON",
+        "color": "TOSTADO",
+        "talle": "L/3/34",
+        "cantidad": 1,
+        "precio": 55.03
+      }
+    ],
+    "fecha": "2025-07-14",
+    "forma_pago": "EFECTIVO",
+    "cerrado": true
+  },
+  {
+    "descripcion": "Venta N° 00002",
+    "items": [
+      {
+        "producto": "Campera Malva",
+        "marca": "EL DON",
+        "color": "Beige",
+        "talle": "XS/28",
+        "cantidad": 1,
+        "precio": 81.2
+      },
+      {
+        "producto": "Buzo Waffle Liviano",
+        "marca": "EL DON",
+        "color": "TOSTADO",
+        "talle": "XL/36",
+        "cantidad": 1,
+        "precio": 55.03
+      },
+      {
+        "producto": "Buzo Waffle Liviano",
+        "marca": "EL DON",
+        "color": "TOSTADO",
+        "talle": "XL/36",
+        "cantidad": 1,
+        "precio": 55.03
+      },
+      {
+        "producto": "Buzo Waffle Liviano",
+        "marca": "EL DON",
+        "color": "grafito",
+        "talle": "L/3/34",
+        "cantidad": 1,
+        "precio": 55.03
+      },
+      {
+        "producto": "Campera Malva",
+        "marca": "EL DON",
+        "color": "Beige",
+        "talle": "XS/28",
+        "cantidad": 1,
+        "precio": 81.2
+      },
+      {
+        "producto": "Campera Malva",
+        "marca": "EL DON",
+        "color": "Beige",
+        "talle": "XS/28",
+        "cantidad": 1,
+        "precio": 81.2
+      },
+      {
+        "producto": "Campera Malva",
+        "marca": "EL DON",
+        "color": "Beige",
+        "talle": "S/1/30",
+        "cantidad": 1,
+        "precio": 81.2
+      },
+      {
+        "producto": "Campera Malva",
+        "marca": "EL DON",
+        "color": "Beige",
+        "talle": "L/3/34",
+        "cantidad": 1,
+        "precio": 81.2
+      }
+    ],
+    "fecha": "2025-07-14",
+    "forma_pago": "EFECTIVO",
+    "cerrado": true
+  },
+  {
+    "descripcion": "Venta N° 00002",
+    "items": [
+      {
+        "producto": "Buzo Frisa Anton",
+        "marca": "EL DON",
+        "color": "Negro",
+        "talle": "M/2/32",
+        "cantidad": 1,
+        "precio": 84.66
+      }
+    ],
+    "fecha": "2025-07-15",
+    "forma_pago": "EFECTIVO",
+    "cerrado": true
+  },
+  {
+    "descripcion": "Venta N° 00002",
+    "items": [
+      {
+        "producto": "Buzo Frisa Anton",
+        "marca": "EL DON",
+        "color": "Negro",
+        "talle": "S/1/30",
+        "cantidad": 1,
+        "precio": 84.66
+      }
+    ],
+    "fecha": "2025-07-15",
+    "forma_pago": "EFECTIVO",
+    "cerrado": true
+  },
+  {
+    "descripcion": "Venta N° 00002",
+    "items": [
+      {
+        "producto": "Buzo Frisa Anton",
+        "marca": "EL DON",
+        "color": "Negro",
+        "talle": "L/3/34",
+        "cantidad": 1,
+        "precio": 84.66
+      },
+      {
+        "producto": "Buzo Frisa Anton",
+        "marca": "EL DON",
+        "color": "Celeste",
+        "talle": "S/1/30",
+        "cantidad": 1,
+        "precio": 84.66
+      }
+    ],
+    "fecha": "2025-07-15",
+    "forma_pago": "EFECTIVO",
+    "cerrado": true
+  },
+  {
+    "descripcion": "Venta N° 00003",
+    "items": [
+      {
+        "producto": "Buzo Frisa Anton",
+        "marca": "EL DON",
+        "color": "beige",
+        "talle": "S/1/30",
+        "cantidad": 1,
+        "precio": 84.66
+      }
+    ],
+    "fecha": "2025-07-16",
+    "forma_pago": "EFECTIVO",
+    "cerrado": true
+  }
+]
